@@ -1,0 +1,288 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+sisventas
+</name>
+</assembly>
+<members>
+<member name="P:sisventas.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.add">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.categorias">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.file_add">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.file_borrar">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.file_borrar1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.imprimir">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.producto">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sisventas.My.Resources.Resources.user">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:sisventas.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.categoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.clienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.detalle_ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.usuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.ventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.generar_comprobanteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_categoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_clienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_detalle_ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_productoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_ventaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.categoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.clienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.detalle_ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.usuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.ventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.generar_comprobanteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_categoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_clienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_detalle_ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_productoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_ventaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.categoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.clienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.detalle_ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.usuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.ventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.generar_comprobanteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_categoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_clienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_detalle_ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_productoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.sisventasDataSet.mostrar_ventaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sisventas.sisventasDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.categoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.clienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.detalle_ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.usuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.ventasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.generar_comprobanteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.mostrar_categoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.mostrar_clienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.mostrar_detalle_ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.mostrar_productoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.mostrar_ventaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sisventas.sisventasDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(sisventas.sisventasDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sisventas.sisventasDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(sisventas.sisventasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sisventas.sisventasDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(sisventas.sisventasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sisventas.sisventasDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sisventas.sisventasDataSetTableAdapters.TableAdapterManager.UpdateAll(sisventas.sisventasDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sisventas.sisventasDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
